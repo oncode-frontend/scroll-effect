@@ -20,7 +20,7 @@ body{
     position: fixed;
     top: 0;
     width: 100%;
-    transition: 0.3s;
+    transition: ease-in 0.3s;
 }
 
 .nav-bar .navigation{
