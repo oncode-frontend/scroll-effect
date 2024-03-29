@@ -17,6 +17,10 @@ body{
     justify-content: space-between;
     align-items: center;
     padding: 0 35px;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    transition: 0.3s;
 }
 
 .nav-bar .navigation{
@@ -31,7 +35,7 @@ body{
 }
 
 .container{
-    margin: 40px 35px;
+    margin: 140px 35px;
 }
 
 h2{
